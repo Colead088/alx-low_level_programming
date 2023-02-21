@@ -1,7 +1,7 @@
 #include <stdio.h>
 /* main - The gate
  * printf - stdio library function 
- * return - 0 for sucess
+ * return - 0 for success
  */
 int main(void)
 {
